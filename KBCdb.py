@@ -2,8 +2,8 @@
 # File: KBCdb.py                                                                           #
 # Kaun Banega Crorepati: questions and answers                                             #
 # Compiled by U.S.T.S                                                                       #
-# Date: November 2014                                                                              #
-# Source http://www.gamefaqs.com/gba/919785-who-wants-to-be-a-millionaire-2nd-edition/faqs/40044   #
+# Date: June 2016                                                                             #
+# Source http://www.gamefaqs.com/gba/919785-who-wants-to-be-a-millionaire-2nd-edition/faqs/4004   #
 ####################################################################################################
 
 def get_question(n, t):
